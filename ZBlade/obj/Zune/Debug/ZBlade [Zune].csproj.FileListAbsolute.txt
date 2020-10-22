@@ -1,0 +1,8 @@
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\bin\Zune\Debug\ZBlade.dll
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\bin\Zune\Debug\ZBlade.pdb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\obj\Zune\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\obj\Zune\Debug\ZBlade.Properties.Resources [Zune].resources
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\obj\Zune\Debug\ZBlade [Zune].csproj.GenerateResource.Cache
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\obj\Zune\Debug\ZBlade.dll
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\temp\Slaam\zBlade\ZBlade\obj\Zune\Debug\ZBlade.pdb

@@ -1,0 +1,118 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZBlade [Zune]", "ZBlade\ZBlade [Zune].csproj", "{0C248C48-F15F-4BBD-9298-08A57C2E56FF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E943020E-8D0F-44B5-A030-84472C07297A} = {E943020E-8D0F-44B5-A030-84472C07297A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZuneBladeTester [Zune]", "ZuneBladeTester\ZuneBladeTester [Zune].csproj", "{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZuneBladeContent [Zune]", "ZuneBladeContent\ZuneBladeContent [Zune].csproj", "{E943020E-8D0F-44B5-A030-84472C07297A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZBlade [Windows]", "ZBlade\ZBlade [Windows].csproj", "{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32} = {80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZuneBladeContent [Windows]", "ZuneBladeContent\ZuneBladeContent [Windows].csproj", "{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZuneBladeTester [Windows]", "ZuneBladeTester\ZuneBladeTester [Windows].csproj", "{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Zune = Debug|Zune
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Debug|Mixed Platforms.ActiveCfg = Debug|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Debug|Mixed Platforms.Build.0 = Debug|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Debug|x86.ActiveCfg = Debug|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Debug|Zune.ActiveCfg = Debug|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Debug|Zune.Build.0 = Debug|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Release|Mixed Platforms.ActiveCfg = Release|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Release|Mixed Platforms.Build.0 = Release|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Release|x86.ActiveCfg = Release|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Release|Zune.ActiveCfg = Release|Zune
+		{0C248C48-F15F-4BBD-9298-08A57C2E56FF}.Release|Zune.Build.0 = Release|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Debug|Mixed Platforms.ActiveCfg = Debug|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Debug|Mixed Platforms.Build.0 = Debug|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Debug|Mixed Platforms.Deploy.0 = Debug|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Debug|x86.ActiveCfg = Debug|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Debug|Zune.ActiveCfg = Debug|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Debug|Zune.Build.0 = Debug|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Debug|Zune.Deploy.0 = Debug|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Release|Mixed Platforms.ActiveCfg = Release|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Release|Mixed Platforms.Build.0 = Release|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Release|Mixed Platforms.Deploy.0 = Release|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Release|x86.ActiveCfg = Release|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Release|Zune.ActiveCfg = Release|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Release|Zune.Build.0 = Release|Zune
+		{EC5C7002-C9F1-4D74-9DF8-EA66C0F66481}.Release|Zune.Deploy.0 = Release|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Debug|Mixed Platforms.ActiveCfg = Debug|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Debug|Mixed Platforms.Build.0 = Debug|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Debug|x86.ActiveCfg = Debug|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Debug|Zune.ActiveCfg = Debug|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Debug|Zune.Build.0 = Debug|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Release|Mixed Platforms.ActiveCfg = Release|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Release|Mixed Platforms.Build.0 = Release|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Release|x86.ActiveCfg = Release|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Release|Zune.ActiveCfg = Release|Zune
+		{E943020E-8D0F-44B5-A030-84472C07297A}.Release|Zune.Build.0 = Release|Zune
+		{FEE88B77-416F-4240-8773-BCA4C4545B95}.Debug|Mixed Platforms.ActiveCfg = Debug|Zune
+		{FEE88B77-416F-4240-8773-BCA4C4545B95}.Debug|x86.ActiveCfg = Debug|Zune
+		{FEE88B77-416F-4240-8773-BCA4C4545B95}.Debug|Zune.ActiveCfg = Debug|Zune
+		{FEE88B77-416F-4240-8773-BCA4C4545B95}.Release|Mixed Platforms.ActiveCfg = Release|Zune
+		{FEE88B77-416F-4240-8773-BCA4C4545B95}.Release|x86.ActiveCfg = Release|Zune
+		{FEE88B77-416F-4240-8773-BCA4C4545B95}.Release|Zune.ActiveCfg = Release|Zune
+		{D96DB321-2784-4D0C-92CC-8E6B02BFBD33}.Debug|Mixed Platforms.ActiveCfg = Debug|Zune
+		{D96DB321-2784-4D0C-92CC-8E6B02BFBD33}.Debug|x86.ActiveCfg = Debug|Zune
+		{D96DB321-2784-4D0C-92CC-8E6B02BFBD33}.Debug|Zune.ActiveCfg = Debug|Zune
+		{D96DB321-2784-4D0C-92CC-8E6B02BFBD33}.Release|Mixed Platforms.ActiveCfg = Release|Zune
+		{D96DB321-2784-4D0C-92CC-8E6B02BFBD33}.Release|x86.ActiveCfg = Release|Zune
+		{D96DB321-2784-4D0C-92CC-8E6B02BFBD33}.Release|Zune.ActiveCfg = Release|Zune
+		{E1247028-A9EB-4362-9E53-803C5369CEA9}.Debug|Mixed Platforms.ActiveCfg = Debug|Zune
+		{E1247028-A9EB-4362-9E53-803C5369CEA9}.Debug|x86.ActiveCfg = Debug|Zune
+		{E1247028-A9EB-4362-9E53-803C5369CEA9}.Debug|Zune.ActiveCfg = Debug|Zune
+		{E1247028-A9EB-4362-9E53-803C5369CEA9}.Release|Mixed Platforms.ActiveCfg = Release|Zune
+		{E1247028-A9EB-4362-9E53-803C5369CEA9}.Release|x86.ActiveCfg = Release|Zune
+		{E1247028-A9EB-4362-9E53-803C5369CEA9}.Release|Zune.ActiveCfg = Release|Zune
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Debug|x86.ActiveCfg = Debug|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Debug|x86.Build.0 = Debug|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Debug|Zune.ActiveCfg = Debug|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Release|x86.ActiveCfg = Release|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Release|x86.Build.0 = Release|x86
+		{CFF5A542-EEB2-4CA3-A59D-0C20118F767D}.Release|Zune.ActiveCfg = Release|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Debug|x86.ActiveCfg = Debug|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Debug|x86.Build.0 = Debug|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Debug|Zune.ActiveCfg = Debug|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Release|Mixed Platforms.Build.0 = Release|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Release|x86.ActiveCfg = Release|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Release|x86.Build.0 = Release|x86
+		{80A3C1A5-885C-4275-A0E6-70A8BBE4FC32}.Release|Zune.ActiveCfg = Release|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Debug|x86.ActiveCfg = Debug|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Debug|x86.Build.0 = Debug|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Debug|Zune.ActiveCfg = Debug|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Release|x86.ActiveCfg = Release|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Release|x86.Build.0 = Release|x86
+		{2A6C49F6-D98F-4802-8DFB-0B3882766EA7}.Release|Zune.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

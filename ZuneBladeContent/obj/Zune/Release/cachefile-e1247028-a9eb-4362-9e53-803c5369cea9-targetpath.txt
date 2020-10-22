@@ -1,0 +1,14 @@
+Content\menuArrow.xnb
+Content\menuchoice.xnb
+Content\menuhighlight.xnb
+Content\progressbarOverlay.xnb
+Content\key1.xnb
+Content\key2.xnb
+Content\key6.xnb
+Content\textbox.xnb
+Content\bgBottom.xnb
+Content\bladeBorder.xnb
+Content\bladeGloss.xnb
+Content\Segoe UI-10.xnb
+Content\Segoe UI-12.xnb
+Content\Segoe UI-14.xnb

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>menuArrow.png</Source>
+      <Name>menuArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\menuArrow.xnb</Output>
+      <Time>2008-12-17T15:56:09.320312-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menuchoice.png</Source>
+      <Name>menuchoice</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\menuchoice.xnb</Output>
+      <Time>2009-01-09T00:42:43.375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menuhighlight.png</Source>
+      <Name>menuhighlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\menuhighlight.xnb</Output>
+      <Time>2009-01-09T00:42:50.1601568-05:00</Time>
+    </Item>
+    <Item>
+      <Source>progressbarOverlay.png</Source>
+      <Name>progressbarOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\progressbarOverlay.xnb</Output>
+      <Time>2009-01-10T01:45:50.3984384-05:00</Time>
+    </Item>
+    <Item>
+      <Source>key1.png</Source>
+      <Name>key1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\key1.xnb</Output>
+      <Time>2008-12-17T16:14:46.859376-05:00</Time>
+    </Item>
+    <Item>
+      <Source>key2.png</Source>
+      <Name>key2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\key2.xnb</Output>
+      <Time>2008-12-17T16:16:17.4843744-05:00</Time>
+    </Item>
+    <Item>
+      <Source>key6.png</Source>
+      <Name>key6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\key6.xnb</Output>
+      <Time>2008-12-17T16:16:40.7148432-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textbox.png</Source>
+      <Name>textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\textbox.xnb</Output>
+      <Time>2008-07-14T00:58:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bgBottom.png</Source>
+      <Name>bgBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\bgBottom.xnb</Output>
+      <Time>2009-01-08T22:57:05.3808111-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bladeBorder.png</Source>
+      <Name>bladeBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\bladeBorder.xnb</Output>
+      <Time>2009-01-08T23:01:12.7548111-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bladeGloss.png</Source>
+      <Name>bladeGloss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\bladeGloss.xnb</Output>
+      <Time>2009-01-08T23:01:33.1538111-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Segoe UI-10.spritefont</Source>
+      <Name>Segoe UI-10</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\Segoe UI-10.xnb</Output>
+      <Time>2008-07-01T10:26:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Segoe UI-12.spritefont</Source>
+      <Name>Segoe UI-12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\Segoe UI-12.xnb</Output>
+      <Time>2009-01-10T02:02:53.0158111-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Segoe UI-14.spritefont</Source>
+      <Name>Segoe UI-14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\Segoe UI-14.xnb</Output>
+      <Time>2008-07-01T10:26:28-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\Zune\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-10-30T22:56:19.0729946-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

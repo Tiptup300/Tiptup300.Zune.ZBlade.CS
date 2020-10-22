@@ -1,0 +1,39 @@
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\bladebg.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\zunepad.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\menuArrow.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\menuchoice.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\menuhighlight.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\padArrow.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\padArrowOff.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\progressbar.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\progressbarOverlay.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\zunebutton.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\Segoe UI-10.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\Segoe UI-12.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\Content\Segoe UI-14.xnb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\ZuneBladeContent.dll
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\bin\x86\ZuneBladeContent.pdb
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\obj\x86\Release\ZuneBladeContent.dll
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\obj\x86\Release\ZuneBladeContent.pdb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\menuArrow.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\menuchoice.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\menuhighlight.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\progressbarOverlay.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\key1.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\key2.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\key6.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\textbox.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\Segoe UI-10.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\Segoe UI-12.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\Segoe UI-14.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\ZuneBladeContent.dll
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\ZuneBladeContent.pdb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\obj\x86\Release\ZuneBladeContent.dll
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\obj\x86\Release\ZuneBladeContent.pdb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\bgBottom.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\bladeBorder.xnb
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\bin\x86\Content\bladeGloss.xnb

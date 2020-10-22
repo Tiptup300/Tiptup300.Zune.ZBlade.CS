@@ -1,0 +1,8 @@
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tiptup300\My Documents\Visual Studio 2008\Projects\zBlade\ZuneBladeContent\Content\obj\Zune\Release\ResolveAssemblyReference.cache
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tiptup300\Documents\CARD\CODE\08\Projects\zBlade\ZuneBladeContent\Content\obj\Zune\Release\ResolveAssemblyReference.cache
